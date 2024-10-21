@@ -14,7 +14,7 @@
  - [x] [What you Won't See Covered](#what-you-wont-see-covered)
  - [x] [Prerequisite Knowledge](#prerequisite-knowledge)
  - [x] [The Daily Plan](#the-daily-plan)
-- [Algorithmic complexity / Big-O / Asymptotic analysis](#algorithmic-complexity--big-o--asymptotic-analysis)
+ - [x] [Algorithmic complexity / Big-O / Asymptotic analysis](#algorithmic-complexity--big-o--asymptotic-analysis)
 - [Data Structures](#data-structures)
     - [Arrays](#arrays)
     - [Linked Lists](#linked-lists)
