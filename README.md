@@ -65,18 +65,18 @@ If you want to be a reliability engineer or operations engineer, study more from
 
 ## Table of Contents
 
-- [x][What is it?](#what-is-it)
-- [x][Why use it?](#why-use-it)
-- [x][How to use it](#how-to-use-it)
-- [x][Don't feel you aren't smart enough](#dont-feel-you-arent-smart-enough)
-- [x][About Video Resources](#about-video-resources)
-- [x][Interview Process & General Interview Prep](#interview-process--general-interview-prep)
-- [x][Pick One Language for the Interview](#pick-one-language-for-the-interview)
+ - [x] [What is it?](#what-is-it)
+ - [x] [Why use it?](#why-use-it)
+ - [x] [How to use it](#how-to-use-it)
+ - [x] [Don't feel you aren't smart enough](#dont-feel-you-arent-smart-enough)
+ - [x] [About Video Resources](#about-video-resources)
+ - [x] [Interview Process & General Interview Prep](#interview-process--general-interview-prep)
+ - [x] [Pick One Language for the Interview](#pick-one-language-for-the-interview)
 - [Book List](#book-list)
-- [x][Before you Get Started](#before-you-get-started)
-- [x][What you Won't See Covered](#what-you-wont-see-covered)
-- [x][Prerequisite Knowledge](#prerequisite-knowledge)
-- [x][The Daily Plan](#the-daily-plan)
+ - [x] [Before you Get Started](#before-you-get-started)
+ - [x] [What you Won't See Covered](#what-you-wont-see-covered)
+ - [x] [Prerequisite Knowledge](#prerequisite-knowledge)
+ - [x] [The Daily Plan](#the-daily-plan)
 - [Algorithmic complexity / Big-O / Asymptotic analysis](#algorithmic-complexity--big-o--asymptotic-analysis)
 - [Data Structures](#data-structures)
     - [Arrays](#arrays)
@@ -484,7 +484,7 @@ Write code on a whiteboard or paper, not a computer. Test with some sample input
 - Nothing to implement
 - There are a lot of videos here. Just watch enough until you understand it. You can always come back and review
 - If some lectures are too mathy, you can jump down to the bottom and watch the discrete mathematics videos to get the background knowledge
-- [ ] [Harvard CS50 - Asymptotic Notation (video)](https://www.youtube.com/watch?v=iOq5kSKqeR4)
+- [x] [Harvard CS50 - Asymptotic Notation (video)](https://www.youtube.com/watch?v=iOq5kSKqeR4)
 - [ ] [Big O Notations (general quick tutorial) (video)](https://www.youtube.com/watch?v=V6mKVRU1evU)
 - [ ] [Big O Notation (and Omega and Theta) - best mathematical explanation (video)](https://www.youtube.com/watch?v=ei-A_wy5Yxw&index=2&list=PL1BaGV1cIH4UhkL8a9bJGG356covJ76qN)
 - [ ] Skiena:
