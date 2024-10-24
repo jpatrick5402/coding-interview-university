@@ -19,7 +19,7 @@
     - [x] [Arrays](#arrays)
     - [x] [Linked Lists](#linked-lists)
     - [x] [Stack](#stack)
-    - [Queue](#queue)
+    - [x] [Queue](#queue)
     - [Hash table](#hash-table)
 - [More Knowledge](#more-knowledge)
     - [Binary search](#binary-search)
