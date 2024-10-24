@@ -18,7 +18,7 @@
 - [Data Structures](#data-structures)
     - [x] [Arrays](#arrays)
     - [x] [Linked Lists](#linked-lists)
-    - [Stack](#stack)
+    - [x] [Stack](#stack)
     - [Queue](#queue)
     - [Hash table](#hash-table)
 - [More Knowledge](#more-knowledge)
